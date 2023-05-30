@@ -1,0 +1,17 @@
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.AssemblyInfo.cs
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\SchoolClassesApp\bin\Debug\net6.0\SchoolClassesApp.exe
+C:\Users\marti\source\repos\SchoolClassesApp\bin\Debug\net6.0\classes.txt
+C:\Users\marti\source\repos\SchoolClassesApp\bin\Debug\net6.0\SchoolClassesApp.deps.json
+C:\Users\marti\source\repos\SchoolClassesApp\bin\Debug\net6.0\SchoolClassesApp.runtimeconfig.json
+C:\Users\marti\source\repos\SchoolClassesApp\bin\Debug\net6.0\SchoolClassesApp.dll
+C:\Users\marti\source\repos\SchoolClassesApp\bin\Debug\net6.0\SchoolClassesApp.pdb
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.dll
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\refint\SchoolClassesApp.dll
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.pdb
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\SchoolClassesApp.genruntimeconfig.cache
+C:\Users\marti\source\repos\SchoolClassesApp\obj\Debug\net6.0\ref\SchoolClassesApp.dll
+C:\Users\marti\source\repos\SchoolClassesApp\bin\Debug\net6.0\output.txt
